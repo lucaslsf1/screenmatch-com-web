@@ -9,8 +9,8 @@ public record SerieDTO(
         Integer totalTemporadas,
         Double avaliacao,
         Categoria genero,
-        String atores,
         String imagemPoster,
+        String atores,
         String sinopse
 ) {
 }

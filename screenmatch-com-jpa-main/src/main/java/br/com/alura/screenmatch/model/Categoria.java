@@ -10,7 +10,9 @@ public enum Categoria {
     HORROR("Horror", "Terror"),
     SUSPENSE("Suspense", "Suspense"),
     ROMANCE("Romance", "Romance"),
-    CRIME("Crime", "Crime");
+    CRIME("Crime", "Crime"),
+    AVENTURA("Adventure", "Aventura"),
+    COMEDIA("Comedy", "Comédia");
 
     private String categoriaOmdb;
     private String categoriaPortugues;
